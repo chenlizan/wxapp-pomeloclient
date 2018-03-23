@@ -1,0 +1,22 @@
+{
+  "name": "wxapp-pomeloclient",
+  "version": "1.0.0",
+  "description": "微信小程序pomelo客户端",
+  "main": "utils/im.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenlizan/wxapp-pomeloclient.git"
+  },
+  "author": "chenlizan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chenlizan/wxapp-pomeloclient/issues"
+  },
+  "homepage": "https://github.com/chenlizan/wxapp-pomeloclient#readme"
+}
