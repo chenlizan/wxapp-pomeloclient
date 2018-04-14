@@ -1,6 +1,6 @@
 {
   "name": "wxapp-pomeloclient",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "微信小程序pomelo客户端",
   "main": "utils/im.js",
   "directories": {
